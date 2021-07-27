@@ -14,8 +14,7 @@ apt-get install -y \
   software-properties-common \
   unzip \
   vim \
-  apache2 \
-  nginx 
+  apache2
 
 echo "-> Downloading Vault....."
 cd /tmp && {
